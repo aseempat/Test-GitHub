@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Recent trends in the labour market}{3}{0}{1}
+\beamer@sectionintoc {2}{The Canonical Model and its shortcomings}{14}{0}{2}
+\beamer@sectionintoc {3}{A Ricardian Model of the Labour Market}{19}{0}{3}
+\beamer@sectionintoc {4}{Comparative statics of the Ricardian model}{34}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{44}{0}{5}
